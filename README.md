@@ -133,8 +133,8 @@ LAN-based Automatic Software Deployment System supporting silent installation, r
 
 📧 **sanjaysaravanan306@gmail.com**
 
-💼 LinkedIn: YOUR_LINK
+💼 LinkedIn: https://www.linkedin.com/in/sanjay29kumar/
 
-🌐 Portfolio: YOUR_PORTFOLIO
+🌐 Portfolio: https://sanjaykumar99.netlify.app/
 
 </div>
